@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://bigsun.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: 南阳至诚电脑服务中心
+subtitle: 专业、快速、诚信
+author: 孙建磊
 simple_search: http://google.com/search
-description:
+description: 软件系统安装、电脑杀毒、数据恢复、硬件故障检修、局域网组建、共享上网、电脑维护包年、网吧装维。
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -89,7 +89,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: bigsun
 disqus_show_comment_count: false
 
 # Google Analytics
