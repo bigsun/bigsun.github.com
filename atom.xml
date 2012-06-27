@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[南阳至诚电脑服务中心]]></title>
+  <link href="http://bigsun.github.com/atom.xml" rel="self"/>
+  <link href="http://bigsun.github.com/"/>
+  <updated>2012-06-28T06:49:04+08:00</updated>
+  <id>http://bigsun.github.com/</id>
+  <author>
+    <name><![CDATA[孙建磊]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
